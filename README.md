@@ -1,4 +1,4 @@
-👋 Hi, I’m @flemarch64.
+👋 Hi, I’m Fabian Lemarchand.
 
 I'm working on open source software development for computational fluid dynamics (CFD), Data science and machine learning projects.
 
