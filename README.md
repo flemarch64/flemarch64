@@ -1,8 +1,6 @@
 👋 Hi, I’m @flemarch64.
 
-I'm working on Data science and machine learning projects.
-
-I am also keen on working in open source software development for computational fluid dynamics (CFD)
+I'm working on open source software development for computational fluid dynamics (CFD), Data science and machine learning projects.
 
 The programming languages that I use are the following:
 - Python
