@@ -8,6 +8,9 @@ The programming languages that I use are the following:
 - MySql
 - C++
 - Matlab
+- Javacript
+- HTML
+- CSS
   
 Feel free to check all my projects on this repository.
 <!---
